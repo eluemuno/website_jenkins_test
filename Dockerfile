@@ -1,3 +1,3 @@
 
-FROM ubuntu/my-apache-container
+FROM httpd 
 ADD . /var/www/html
