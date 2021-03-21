@@ -1,3 +1,3 @@
 
-FROM ubuntu 
+FROM WebServer 
 ADD . /var/www/html
