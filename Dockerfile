@@ -1,3 +1,3 @@
 
-FROM httpd 
+FROM ubuntu 
 ADD . /var/www/html
