@@ -1,3 +1,3 @@
 
-FROM WebServer 
+FROM httpd
 ADD . /var/www/html
